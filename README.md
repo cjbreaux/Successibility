@@ -6,7 +6,7 @@ _Published_ **May 13 2019**<br>
 _Authors_ **Chris Breaux, Gary Bermudez, Victoria Martinez, Doris Warren, Maly Phongsavanh**
 
 1. [Description](#description)
-2. [Learning Objective](#learning-objective)
+2. [Learning Objectives](#learning-objective)
 3. [Target Audience](#target-audience)
 4. [User Stories](#user-stories)
 5. [Component Structure](#Component-Structure)
@@ -19,9 +19,7 @@ _Authors_ **Chris Breaux, Gary Bermudez, Victoria Martinez, Doris Warren, Maly P
 13. [License](#license)
 
 ### Description
-Succesibility was built to show the importance of making a website assessable. It is important that the web be accessible to everyone in order to provide equal assess and provide equal opportunity to people with disabilities. An accessible web can help people with disabilities participate more actively in society.
-
-"About 15% of the world’s population has some form of disability. That’s right, over 1 billion people around the world have some sort of disability.", Why is web accessibility important? Because you want ALL your users to have a good on your site." by Posted: 29 Aug 2018 Contributor: Matthew J Fritschle, Aum Magazine
+Successibility was a team-week project at Epicodus. Utilizing a suite of accessibility tools, we cloned the home page of www.portlandfarmersmarket.org using ReactJS and added features recommended by the Web Accessibility Content Guidelines.
 
 ### View Project
 ![View Project](./src/assets/topClone.png?raw=true "Clone Project")
@@ -43,15 +41,15 @@ Succesibility was built to show the importance of making a website assessable. I
 **So that** I am able to keep up to date with weekly farmers markets,
 
 **As a** screen reader user,<br>
-**I want** I want to understand, know what each form label is for each form field.,<br>
+**I want** I want to understand, know what each form label is for each form field,<br>
 **So that** I can effectively enter the correct information in the form.
 
 **As a** user who has trouble reading due to low vision,<br>
-**I want** who has trouble reading due to low vision, I want to be able to make the text larger on the screen,<br>
+**I want** to be able to make the text larger on the screen,<br>
 **So that** I can read it.
 
 **As a** user who is color blind,<br>
-**I want** I want to have access to information conveyed in color,<br>
+**I want** to have access to information conveyed in color,<br>
 **So that** I do not miss anything and I understand the content.
 
 **As a** user who is color blind,<br>
@@ -63,6 +61,6 @@ Succesibility was built to show the importance of making a website assessable. I
 ### Stretch Goals
 
 * Creating more pages
-* Routing links their proper pages
-* Connecting Instagram to Farmer Market Instagram account
-*  
+* Routing links to their proper pages
+* Connecting Instagram to the Farmers Market Instagram account
+
