@@ -5,19 +5,6 @@
 _Published_ **May 13 2019**<br>
 _Authors_ **Chris Breaux, Gary Bermudez, Victoria Martinez, Doris Warren, Maly Phongsavanh**
 
-1. [Description](#description)
-2. [Learning Objectives](#learning-objective)
-3. [Target Audience](#target-audience)
-4. [User Stories](#user-stories)
-5. [Component Structure](#Component-Structure)
-6. [View Project](#View-Project)
-7. [Stretch Goals](#stretch-goals)
-8. [Development Plan](#development-plan)
-10. [Installation](#installation)
-11. [Known Bugs](#known-bugs)
-12. [Technologies Used](#technologies-used)
-13. [License](#license)
-
 ### Description
 Successibility was a team-week project at Epicodus. Utilizing a suite of accessibility tools, we cloned the home page of www.portlandfarmersmarket.org using ReactJS and added features recommended by the Web Accessibility Content Guidelines.
 
