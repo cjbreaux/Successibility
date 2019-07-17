@@ -8,7 +8,7 @@ _Authors_ **Chris Breaux, Gary Bermudez, Victoria Martinez, Doris Warren, Maly P
 ### Description
 Successibility was a team-week project at Epicodus. Utilizing a suite of accessibility tools, we cloned the home page of www.portlandfarmersmarket.org using ReactJS and added features recommended by the Web Accessibility Content Guidelines.
 
-### View Project
+### Project View
 ![View Project](./src/assets/topClone.png?raw=true "Clone Project")
 ![View Project](./src/assets/medClone.png?raw=true "Clone Project")
 ![View Project](./src/assets/bottomClone.png?raw=true "Clone Project")
@@ -19,7 +19,7 @@ Successibility was a team-week project at Epicodus. Utilizing a suite of accessi
 * Leaning about accessibility guidelines and how to implement them.
 * Working with React and building an accessible web app.
 
-### Targeting Audience
+### Target Audience
 * Persons interested in implementing accessibility into their web app
 
 ### User Stories
